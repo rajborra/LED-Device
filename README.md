@@ -10,3 +10,5 @@ A device that toggles through five states, activated with a button push:
 
 The MCU used was an ATMEGA328. The battery used had a supply voltage of 9V.
 
+Note: the signal from the button to the MCU is missing; either fix the ECAD design or solder on a wire in the physical design as a workaround.
+
