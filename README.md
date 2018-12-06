@@ -8,3 +8,5 @@ A device that toggles through five states, activated with a button push:
 4. 1/4th Brightness
 5. Flashing at 2 Hz
 
+The MCU used was an ATMEGA328. The battery used had a supply voltage of 9V.
+
